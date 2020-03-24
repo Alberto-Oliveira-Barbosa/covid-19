@@ -11,4 +11,4 @@
 
 Com isso será criado um novo notebook com a atualização para as novas fontes disponibilizadas
 
-Arquivo mais recente com os dados mais atuais deste repositório ***new-notebook-covid-19***
+Arquivo com dados mais atuais deste repositório: ***new-notebook-covid-19***
